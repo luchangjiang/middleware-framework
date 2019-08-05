@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/middleware-auth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/middleware-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/middleware-upms-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/middleware-upms-biz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/middleware-upms-ui" vcs="Git" />
+  </component>
+</project>

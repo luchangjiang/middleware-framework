@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.lotstock.eddid:middleware-common-minio:1.0.12-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/MyJava/MavenRepository/com/lotstock/eddid/middleware-common-minio/1.0.12-SNAPSHOT/middleware-common-minio-1.0.12-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/MyJava/MavenRepository/com/lotstock/eddid/middleware-common-minio/1.0.12-SNAPSHOT/middleware-common-minio-1.0.12-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/MyJava/MavenRepository/com/lotstock/eddid/middleware-common-minio/1.0.12-SNAPSHOT/middleware-common-minio-1.0.12-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
